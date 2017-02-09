@@ -11,6 +11,12 @@ body{
 h1 {
   text-align:center;
 }
-.madlibs-text{
+button{
+  height:30px;
+}
+#madlibs-text{
   display:none;
+}
+span{
+  font-weight:bold;
 }
